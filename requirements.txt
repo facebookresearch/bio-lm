@@ -1,0 +1,8 @@
+pyyaml==5.1
+tensorboardX==2.0
+seqeval==0.0.12
+gdown
+bioc
+fire
+sympy
+spacy
