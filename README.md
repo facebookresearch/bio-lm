@@ -1,6 +1,6 @@
 # Biomedical and Clinical Language Models
 
-This repository contains code and modeks to support the research paper [Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art](https://www.aclweb.org/anthology/2020.clinicalnlp-1.17/)
+This repository contains code and models to support the research paper [Pretrained Language Models for Biomedical and Clinical Tasks: Understanding and Extending the State-of-the-Art](https://www.aclweb.org/anthology/2020.clinicalnlp-1.17/)
 
 <br>
 <p align="center">
