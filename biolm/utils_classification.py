@@ -843,7 +843,7 @@ def compute_metrics(task_name, preds, labels, examples):
         return acc_p_r_and_f1(preds, labels)
     elif task_name == 'ddi':
         return ddi_eval(preds, labels)
-    elif task_name == "i2b22010":
+    elif task_name == "i2b22010re":
         return i2b22010re_eval(preds, labels)
     else:
         raise KeyError(task_name)
